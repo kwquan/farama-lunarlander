@@ -4,6 +4,7 @@ Contains code for latest environment[gymnasium under Farama]. This repository co
 ### Agent Training
 ![alt text](https://github.com/kwquan/farama-lunarlander/blob/main/lunar_lander_flow.png)
 
-Refer to my reinforcement learning blog for project explanation: https://kwquan.github.io/rl-journal/projects/lunar_lander/
+Refer to my reinforcement learning blog for project explanation: 
+https://kwquan.github.io/rl-journal/projects/lunar_lander/
 
 Alternatively, clone repo & run lunar_lander.py.
